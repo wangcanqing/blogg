@@ -52,7 +52,7 @@ class CouponController extends Controller
         }
 
         echo '<pre>';print_r($coupon_info->toArray());echo '</pre>';
-       // echo "领取成功";
+        // echo "领取成功";
     }
 
 }
